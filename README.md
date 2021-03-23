@@ -1,6 +1,6 @@
-# Pre-work - *Memory Game*
+# Pre-work - *Sounds and Colors*
 
-**Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
+**Sounds and Colors** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
 Submitted by: **Nicholas Ly**
 
